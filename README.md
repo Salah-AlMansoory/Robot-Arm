@@ -1,1 +1,1 @@
-# Robot-Arm
+ I installed Arduino with ROS library to configrate whith the robot packages , then i installed the all dependencies to simulate and run the package from : https://github.com/smart-methods/arduino_robot_arm.git 
